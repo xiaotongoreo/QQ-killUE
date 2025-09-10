@@ -11,4 +11,6 @@ Tips: 运行可能会提示签名错误 建议搭配CorePatch安裝使用或者�
 
 带Lspatch的是使用Lspatch打包的
 
-带origin的是未打包的安装包
+带origin的是未打包的安装包(可自行打包)
+
+提示被风控或封号本人概不负责
